@@ -1,5 +1,6 @@
 {
     "require": {
-        "chargebee/chargebee-php": "^3.11"
+        "chargebee/chargebee-php": "^3.11",
+        "vlucas/phpdotenv": "^5.4"
     }
 }
