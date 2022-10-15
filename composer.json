@@ -1,0 +1,5 @@
+{
+    "require": {
+        "chargebee/chargebee-php": "^3.11"
+    }
+}
