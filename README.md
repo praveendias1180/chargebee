@@ -20,6 +20,12 @@ https://apidocs.chargebee.com/docs/api
 
 ![](customer-chargebee.png)
 
+# Chargebee Item
+
+![](item.png)
+
+![](item-in-dashboard.png)
+
 # Chargebee Subscriptions
 
 https://apidocs.chargebee.com/docs/api/subscriptions?prod_cat_ver=2
