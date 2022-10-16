@@ -19,3 +19,9 @@ https://apidocs.chargebee.com/docs/api
 # View the Created Customer on Chargebee
 
 ![](customer-chargebee.png)
+
+# Chargebee Subscriptions
+
+https://apidocs.chargebee.com/docs/api/subscriptions?prod_cat_ver=2
+
+![](subscription.png)
